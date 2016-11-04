@@ -1,2 +1,0 @@
-# opencv-study
-opencv study
